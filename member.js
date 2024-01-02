@@ -7,5 +7,7 @@ function skillsmember() {
     } else {
         member.style.display = "none";
         skills.style.display = "block";
+        skills.style.marginTop = "5%";
+        skillsmember
     }
 }
